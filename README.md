@@ -45,3 +45,5 @@ Steps to Implement Spam Detection
 - Visualization & Debugging: matplotlib, seaborn
 
 *OUTPUT* :
+
+![Image](https://github.com/user-attachments/assets/2925b57f-858d-4ac2-8517-577735ecfe51)
